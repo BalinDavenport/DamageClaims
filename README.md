@@ -1,5 +1,5 @@
 # DamageClaims
-
+```mermaid
 flowchart LR
   classDef auto fill:#E8F5E9,stroke:#777,rx:6,ry:6;
   classDef decision fill:#FFF3E0,stroke:#777;
